@@ -127,3 +127,20 @@
     filter: invert(1);
   }
 }
+
+.boxSection {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid 10px red;
+  overflow: hidden;
+  background-color: yellow;
+}
+
+.box1 {
+  width: 500px;
+  height: 500px;
+  background-color: red;
+}
