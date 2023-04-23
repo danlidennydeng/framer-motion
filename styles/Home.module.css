@@ -140,8 +140,8 @@
 }
 
 .box1 {
-  width: 500px;
-  height: 500px;
+  width: 20vw;
+  height: 20vw;
   background-color: red;
   /* touch-action: none; */
 }
