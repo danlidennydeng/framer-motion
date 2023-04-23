@@ -9,7 +9,7 @@ function DragSquare() {
   return (
 
     <div className={styles.boxSection} ref={parentRef}>
-          <motion.div className={styles.box1}  drag="true" style={{ touchAction: "none" }} dragConstraints={parentRef} whileDrag={{scale: 1.1}}>
+          <motion.div className={styles.box1}  drag style={{ touchAction: "none" }} dragConstraints={parentRef} whileDrag={{scale: 1.1}}>
           
           </motion.div>
         </div>
