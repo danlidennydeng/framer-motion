@@ -134,9 +134,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  border: solid 10px red;
+  border: solid 10px purple;
   overflow: hidden;
-  background-color: yellow;
+  background-color: grey;
 }
 
 .box1 {
