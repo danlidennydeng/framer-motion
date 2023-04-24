@@ -144,3 +144,30 @@
   height: 20vw;
   background-color: green;
 }
+
+.div1 {
+
+  width: 300px;
+  height: 100px;
+
+  margin: 10px;
+  border: 10px solid blue;
+}
+
+.div2 {
+  width: 300px;
+  height: 100px;  
+
+  margin: 0px;
+  padding: 30px;
+  border: 10px solid red;
+}
+
+.div3 {
+  margin: 4px;
+  padding: 40px;
+  width: 100vw;
+  height: calc(100vw * 0.5625);
+  background-color: pink;
+  border: 1px solid green;
+} 
