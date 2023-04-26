@@ -164,10 +164,39 @@
 }
 
 .div3 {
-  margin: 4px;
-  padding: 40px;
+  margin: 0px;
+  padding: 0px;
   width: 100vw;
   height: calc(100vw * 0.5625);
   background-color: pink;
-  border: 1px solid green;
+  border: 5px solid red;
+  overflow: hidden;
 } 
+
+.asset8 {
+  position: relative;
+  top: 10px;
+  left: -20px;
+  width: 24.27vw;
+  height: 20vw;
+  border: 0px solid #73AD21;
+  background-image: url("../public/Asset08.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: 24.27vw 16vw;
+
+}
+
+.asset9 {
+  position: relative;
+  top: 100px;
+  left: 500px;
+  width: 24.27vw;
+  height: 20vw;
+  border: 1px solid bisque;
+  background-image: url("../public/Asset09.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: 24.27vw 16vw;
+
+}
